@@ -1,4 +1,4 @@
-package ua.in.hubachov.web.controller;
+package ua.in.hubachov.cinema.web.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
