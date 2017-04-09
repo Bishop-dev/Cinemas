@@ -10,7 +10,7 @@ import org.springframework.context.annotation.ComponentScan;
  * Created by Sashko on 4/9/17.
  */
 @SpringBootApplication
-@ComponentScan("ua.in.hubachov")
+@ComponentScan({"ua.in.hubachov.cinema"})
 public class Application extends SpringBootServletInitializer {
 
     @Override

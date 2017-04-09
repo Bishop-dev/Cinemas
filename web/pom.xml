@@ -11,5 +11,12 @@
 
     <artifactId>web</artifactId>
 
+    <dependencies>
+        <dependency>
+            <artifactId>telegram-bot</artifactId>
+            <groupId>ua.in.hubachov.cinema</groupId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
 
 </project>
