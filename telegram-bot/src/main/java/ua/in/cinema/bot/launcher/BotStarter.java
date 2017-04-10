@@ -1,4 +1,4 @@
-package ua.in.hubachov.cinema.bot.launcher;
+package ua.in.cinema.bot.launcher;
 
 /**
  * Created by Sashko on 4/9/17.

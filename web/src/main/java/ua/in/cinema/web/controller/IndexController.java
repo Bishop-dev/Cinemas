@@ -1,6 +1,6 @@
-package ua.in.hubachov.cinema.web.controller;
+package ua.in.cinema.web.controller;
 
-import ua.in.hubachov.cinema.bot.launcher.BotStarter;
+import ua.in.cinema.bot.launcher.BotStarter;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;

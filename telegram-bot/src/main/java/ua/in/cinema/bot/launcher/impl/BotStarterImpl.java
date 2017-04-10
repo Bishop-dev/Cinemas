@@ -1,9 +1,9 @@
-package ua.in.hubachov.cinema.bot.launcher.impl;
+package ua.in.cinema.bot.launcher.impl;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.PropertySource;
-import ua.in.hubachov.cinema.bot.TelegramBot;
-import ua.in.hubachov.cinema.bot.launcher.BotStarter;
+import ua.in.cinema.bot.TelegramBot;
+import ua.in.cinema.bot.launcher.BotStarter;
 import org.springframework.stereotype.Component;
 import org.telegram.telegrambots.ApiContextInitializer;
 import org.telegram.telegrambots.TelegramBotsApi;

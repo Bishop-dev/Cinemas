@@ -1,4 +1,4 @@
-package ua.in.hubachov.cinema.bot;
+package ua.in.cinema.bot;
 
 import org.telegram.telegrambots.api.methods.send.SendMessage;
 import org.telegram.telegrambots.api.objects.Message;
